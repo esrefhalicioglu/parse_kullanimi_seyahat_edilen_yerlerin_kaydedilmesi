@@ -1,0 +1,1 @@
+# parse_kullanimi_seyahat_edilen_yerlerin_kaydedilmesi
